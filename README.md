@@ -1,6 +1,6 @@
 # Atlas Pharaohs
 
-A new Flutter project.
+This is a mobile application project help in solving NASA Space Apps COVID-19 Challenge
 
 ## Getting Started
 
